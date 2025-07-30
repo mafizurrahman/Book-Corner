@@ -5,21 +5,19 @@
 ---
 
 ## 📁 Project Structure
-V1_ofm6.0/
-  ├── ofm/
-      ├── Folder 01/
-          ├── file1.php
-          ├── file2.html
-          ├── file3.css
-          └── ...
-      ├── Folder 02/
-          ├── file4.php
-          ├── file5.html
-          ├── file6.css
-          └── ...
-      └── index.html
-  ├── project.sql
-  └── README.md
+- V1_ofm6.0/
+  - ofm/
+    - Folder 01/
+      - file1.php
+      - file2.html
+      - file3.css
+    - Folder 02/
+      - file4.php
+      - file5.html
+      - file6.css
+    - index.html
+  - project.sql
+  - README.md
 
 
 
