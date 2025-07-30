@@ -2,6 +2,14 @@
 
 **Book Corner** is an interactive, community-driven platform that blends the experience of online book shopping with dynamic features like auctions, donations, live discussions, and quizzes. It fosters meaningful connections between readers and authors while promoting literacy and community engagement.
 ---
+### 🏠 Main Homepage
+![Main Homepage](mainpage.png)
+
+### 🔍 Feature 1: Author Page
+![Feature 1 - Author Interface](authorpage.png)
+
+### 🤝 Feature 2: Book Donations and Quizzes
+![Feature 2 - Chatbox](chatBox.png)
 
 ## 📁 Project Structure
 - V1_ofm6.0/
