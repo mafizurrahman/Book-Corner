@@ -8,7 +8,7 @@
 ### 🔍 Feature 1: Author Page
 ![Feature 1 - Author Interface](authorpage.png)
 
-### 🤝 Feature 2: Book Donations and Quizzes
+### 🤝 Feature 2: Reader can discuss about book in real time
 ![Feature 2 - Chatbox](chatBox.png)
 
 ## 📁 Project Structure
